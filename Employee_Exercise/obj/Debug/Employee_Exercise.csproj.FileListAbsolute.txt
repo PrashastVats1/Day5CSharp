@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day5\Employee_Exercise\Employee_Exercise\bin\Debug\Employee_Exercise.exe.config
+D:\Mphasis\Live Session\Day5\Employee_Exercise\Employee_Exercise\bin\Debug\Employee_Exercise.exe
+D:\Mphasis\Live Session\Day5\Employee_Exercise\Employee_Exercise\bin\Debug\Employee_Exercise.pdb
+D:\Mphasis\Live Session\Day5\Employee_Exercise\Employee_Exercise\obj\Debug\Employee_Exercise.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day5\Employee_Exercise\Employee_Exercise\obj\Debug\Employee_Exercise.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day5\Employee_Exercise\Employee_Exercise\obj\Debug\Employee_Exercise.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day5\Employee_Exercise\Employee_Exercise\obj\Debug\Employee_Exercise.exe
+D:\Mphasis\Live Session\Day5\Employee_Exercise\Employee_Exercise\obj\Debug\Employee_Exercise.pdb
